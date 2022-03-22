@@ -126,3 +126,4 @@ Received Import Request.
   path: Assets/MazeGenerator/Materials/WallMaterial.mat
   artifactKey: Guid(47c87a00e35b22140b638d8939ea89bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/MazeGenerator/Materials/WallMaterial.mat using Guid(47c87a00e35b22140b638d8939ea89bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f6048cb4ae66829a01d8ecb2b16647') in 0.024678 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
