@@ -328,6 +328,7 @@
 "Assets/MazeGenerator/Scripts/RecursiveTreeMazeGenerator.cs"
 "Assets/MazeGenerator/Scripts/RollerBall.cs"
 "Assets/MazeGenerator/Scripts/TreeMazeGenerator.cs"
+"Assets/Scenes/PlayerMovement.cs"
 -langversion:8.0
 
 /deterministic
