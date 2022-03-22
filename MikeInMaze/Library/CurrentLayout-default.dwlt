@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357.3334
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -56,7 +56,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 17
+>>>>>>> MazeMaking
+=======
+  controlID: 90
 >>>>>>> MazeMaking
 --- !u!114 &3
 MonoBehaviour:
@@ -106,7 +110,11 @@ MonoBehaviour:
     height: 696
 =======
     width: 298
+<<<<<<< HEAD
     height: 529
+>>>>>>> MazeMaking
+=======
+    height: 452
 >>>>>>> MazeMaking
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -132,6 +140,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 696
     width: 1953.3334
     height: 611.3334
@@ -139,6 +148,11 @@ MonoBehaviour:
     y: 529
     width: 1172
     height: 194
+>>>>>>> MazeMaking
+=======
+    y: 452
+    width: 1172
+    height: 271
 >>>>>>> MazeMaking
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -257,7 +271,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 63
+>>>>>>> MazeMaking
+=======
+  controlID: 91
 >>>>>>> MazeMaking
 --- !u!114 &10
 MonoBehaviour:
@@ -287,11 +305,15 @@ MonoBehaviour:
   controlID: 48
 =======
     width: 1172
-    height: 529
+    height: 452
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 64
+>>>>>>> MazeMaking
+=======
+  controlID: 92
 >>>>>>> MazeMaking
 --- !u!114 &11
 MonoBehaviour:
@@ -317,7 +339,11 @@ MonoBehaviour:
     x: 298
     y: 0
     width: 874
+<<<<<<< HEAD
     height: 529
+>>>>>>> MazeMaking
+=======
+    height: 452
 >>>>>>> MazeMaking
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -349,6 +375,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 768.6667
     width: 1952.3334
     height: 590.3334
@@ -356,6 +383,11 @@ MonoBehaviour:
     y: 602.4
     width: 1171
     height: 173
+>>>>>>> MazeMaking
+=======
+    y: 525.60004
+    width: 1171
+    height: 250
 >>>>>>> MazeMaking
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -385,6 +417,7 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: f8500000
     m_LastClickedID: 20728
     m_ExpandedIDs: 00000000f850000000ca9a3b
@@ -392,6 +425,11 @@ MonoBehaviour:
     m_SelectedIDs: 966c0000
     m_LastClickedID: 27798
     m_ExpandedIDs: 00000000dc5d0000
+>>>>>>> MazeMaking
+=======
+    m_SelectedIDs: 50620000
+    m_LastClickedID: 25168
+    m_ExpandedIDs: 0000000048620000
 >>>>>>> MazeMaking
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -421,9 +459,13 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000f8500000
 =======
     m_ExpandedIDs: 00000000dc5d0000
+>>>>>>> MazeMaking
+=======
+    m_ExpandedIDs: 0000000048620000
 >>>>>>> MazeMaking
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -546,7 +588,11 @@ MonoBehaviour:
 =======
     y: 73.6
     width: 297
+<<<<<<< HEAD
     height: 508
+>>>>>>> MazeMaking
+=======
+    height: 431
 >>>>>>> MazeMaking
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
@@ -555,9 +601,13 @@ MonoBehaviour:
       m_SelectedIDs: 2aeaffff
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: a4f6ffff6cf7ffff8ef8ffffdcf8ffff20f9ffff9cf9ffffb8faffff
 =======
       m_ExpandedIDs: fe81ffff54fbffff6e550000
+>>>>>>> MazeMaking
+=======
+      m_ExpandedIDs: b8faffff
 >>>>>>> MazeMaking
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -611,7 +661,11 @@ MonoBehaviour:
     x: 298.4
     y: 73.6
     width: 872
+<<<<<<< HEAD
     height: 508
+>>>>>>> MazeMaking
+=======
+    height: 431
 >>>>>>> MazeMaking
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
@@ -626,6 +680,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -2.3333795, y: 1.6302757, z: -13.787949}
     speed: 2
     m_Value: {x: -2.3333795, y: 1.6302757, z: -13.787949}
@@ -633,6 +688,11 @@ MonoBehaviour:
     m_Target: {x: -292.90164, y: -233.75418, z: -23.760477}
     speed: 2
     m_Value: {x: -292.90164, y: -233.75418, z: -23.760477}
+>>>>>>> MazeMaking
+=======
+    m_Target: {x: -143.86206, y: -187.64763, z: -347.8376}
+    speed: 2
+    m_Value: {x: -143.86206, y: -187.64763, z: -347.8376}
 >>>>>>> MazeMaking
   m_RenderMode: 0
   m_CameraMode:
@@ -681,6 +741,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.10329568, y: 0.8234241, z: -0.5347997, w: 0.15904741}
     speed: 2
     m_Value: {x: 0.10353392, y: 0.8226193, z: -0.53603315, w: 0.15889196}
@@ -690,12 +751,19 @@ MonoBehaviour:
     m_Value: 24.591084
 =======
     m_Target: {x: 0.24166135, y: -0.68117857, z: 0.25951797, w: 0.642164}
+=======
+    m_Target: {x: 0.03939711, y: -0.9558215, z: 0.2485366, w: 0.15878578}
+>>>>>>> MazeMaking
     speed: 2
-    m_Value: {x: 0.2433236, y: -0.6796724, z: 0.26128644, w: 0.6407562}
+    m_Value: {x: 0.038881153, y: -0.95554566, z: 0.24540645, w: 0.15873379}
   m_Size:
     m_Target: 230.089
     speed: 2
+<<<<<<< HEAD
     m_Value: 220.18086
+>>>>>>> MazeMaking
+=======
+    m_Value: 230.089
 >>>>>>> MazeMaking
   m_Ortho:
     m_Target: 0
@@ -855,7 +923,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 602.4
+    y: 525.60004
     width: 1171
-    height: 173
+    height: 250
   m_ViewDataDictionary: {fileID: 0}
