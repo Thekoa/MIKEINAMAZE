@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637832818954001265
-    m_Hash: 4021721246
+      ticks: 637835479768869526
+    m_Hash: 988190220
   m_LockFileStatus:
     m_FilePath: C:/Users/saou3/Documents/GitHub/MIKEINAMAZE/MikeInMaze/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637832819226366582
-    m_Hash: 3303814451
+      ticks: 637835479768869526
+    m_Hash: 1838756003
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
